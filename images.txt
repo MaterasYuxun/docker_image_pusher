@@ -1,4 +1,4 @@
 openjdk:17-jdk
 openjdk:17-ea-32-slim
 openjdk:17.0.1-bullseye
-openjdk:17-ea-slim-buster
+--platform linux/arm64/v8 openjdk:17-ea-slim-buster

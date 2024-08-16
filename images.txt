@@ -1,2 +1,2 @@
 openjdk:17-jdk
-arm64v8／openjdk:17-jdk
+arm64／openjdk:17-jdk

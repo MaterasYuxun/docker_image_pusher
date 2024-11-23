@@ -4,5 +4,5 @@ openjdk:17.0.1-bullseye
 --platform linux/arm64/v8 openjdk:17-ea-slim-buster
 container-registry.oracle.com/database/free:latest
 --platform linux/arm64 ghcr.io/home-assistant/home-assistant:stable
-portainer/portainer-ce:latest
+--platform linux/amd64 portainer-ce:latest
 

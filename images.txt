@@ -1,1 +1,1 @@
-portainer/portainer-ce:linux-arm64
+--platform linux/arm64 portainer/portainer-ce:latest

@@ -1,1 +1,1 @@
---platform linux/amd64/v8 portainer-ce:latest
+--platform linux/arm64 portainer-ce:latest

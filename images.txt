@@ -1,1 +1,3 @@
 --platform linux/arm64 portainer/portainer-ce:latest
+arm64v8/mysql
+arm64v8/redis

@@ -1,4 +1,4 @@
 --platform linux/arm64 portainer/portainer-ce:latest
 --platform linux/arm64 redis
 --platform linux/arm64 mariadb
-orangbus/iptv
+--platform linux/arm64 orangbus/iptv

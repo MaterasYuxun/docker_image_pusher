@@ -2,3 +2,4 @@
 --platform linux/arm64 redis
 --platform linux/arm64 mariadb
 --platform linux/arm64 orangbus/iptv
+--platform linux/arm64 minio

@@ -3,3 +3,4 @@
 --platform linux/arm64 mariadb
 --platform linux/arm64 mysql
 --platform linux/arm64 minio/minio
+--platform linux/arm64 elasticsearch:8.14.0

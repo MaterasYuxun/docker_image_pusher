@@ -7,3 +7,4 @@
 --platform linux/arm64 kibana:8.14.0
 --platform linux/arm64 tailscale/tailscale
 --platform linux/arm64 sparanoid/derp:sha-c0a2a75
+--platform linux/aarch64_generic openwrt/rootfs:aarch64_generic-openwrt-24.10

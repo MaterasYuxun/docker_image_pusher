@@ -6,4 +6,4 @@
 --platform linux/arm64 elasticsearch:8.14.0
 --platform linux/arm64 kibana:8.14.0
 --platform linux/arm64 tailscale/tailscale
---platform linux/arm64 sparanoid/derp
+--platform linux/arm64 pvapor/derper
